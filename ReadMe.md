@@ -69,7 +69,7 @@ PYTHONPATH=. pytest tests/test_services.py
 ## Notes
 
 - Uses in-memory storage (resets on restart)
-- Discount applies every Nth order
+- Discount applies every 3rd order
 - Discount codes are one-time use
 
 ---
