@@ -28,8 +28,14 @@ Why: Unique ids instead of numerical ids, UUIDs are more secure
 
 ## Decision: Manual discount trigger
 
+Context: Discounting
+Options: Manual vs Automatic Discount
+Choice: Manual Discount
 Why: Control
 
 ## Decision: No Authentication
 
+Context: Authentication/Logging in
+Options: Authentication vs No Authentication
+Choice: No Authentication
 Why: Simplicity and no explicit mention in the problem statement
